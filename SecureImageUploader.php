@@ -1,8 +1,8 @@
 <?php
 
 
-use Bat\ArrayTool;
-use ThumbnailTools\ThumbnailTool;
+use Ling\Bat\ArrayTool;
+use Ling\ThumbnailTools\ThumbnailTool;
 
 class SecureImageUploader
 {

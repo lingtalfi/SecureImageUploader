@@ -14,7 +14,7 @@ Install
 ==========
 Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
 ```bash
-uni import SecureImageUploader
+uni import Ling/SecureImageUploader
 ```
 
 
